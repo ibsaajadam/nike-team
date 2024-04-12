@@ -22,7 +22,7 @@ Site created with Bootstrap 5, CSS3, PHP & MySQL
 
 ## Live Demo
 
-View live demo here: [Demo](https://nike-admin.000webhostapp.com/)
+View live demo here: [Demo](https://niketeam.000webhostapp.com/)
 
 ## Contact
 
